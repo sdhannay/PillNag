@@ -6,7 +6,7 @@
         "configurable"
     ],
     "companyName": "Stu Hannay",
-    "longName": "Tea Timer",
+    "longName": "Pill Nag",
     "projectType": "native",
     "resources": {
         "media": [
@@ -24,7 +24,7 @@
         ]
     },
     "sdkVersion": "2",
-    "shortName": "Tea Timer",
+    "shortName": "Pill Nag",
     "uuid": "76910e8d-5504-46f0-88e1-18b71da918f2",
     "versionCode": 1,
     "versionLabel": "1.0",
